@@ -6,11 +6,11 @@ Seeking a bioinformatics programmer role to apply data science skills to develop
 
 Skilled in Python, Bash, NGS, molecular biology, and Machine Learning.  
 
-Current Projects
+### Current Projects
 **Speech Command Classification** – Using CNNs to classify audio commands.  
 **Data Science Explorations** – Applying ML models to real-world datasets.  
 
-Technical Skills
+### Technical Skills
 - Programming: Python, Bash, SQL, MATLAB  
 - Molecular Biology: NGS workflows, DNA sequencing, qPCR, ELISA, Flow Cytometry
 - Data Science & Machine Learning:** Supervised/Unsupervised ML, NLP, CNNs, Recommender Systems
@@ -18,4 +18,4 @@ Technical Skills
 
 ## 📫 Let's Connect!
 - **GitHub:** (https://github.com/sklin11)  
-- **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shane-lin-341b95127/))  
+- **LinkedIn:** (https://www.linkedin.com/in/shane-lin-341b95127/?trk=public-profile-join-page)
