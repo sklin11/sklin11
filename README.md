@@ -1,4 +1,4 @@
-## Hi, I'm Shane Lin!
+## Hi, I'm Shane Lin 
 
 ### M.S. Data Science Candidate| Senior Research Associate | Experienced in NGS and molecular Biology 
 I'm currently completing a Masters in Data Science at UCSD and I have a strong background in NGS workflows, molecular biology, and data analysis. 
